@@ -1,6 +1,6 @@
 # 从零开始NLP
 
-我个人的NLP初学者的联系，可以帮助我快速入门，本项目是针对[FuDanNLP的NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。
+我个人的NLP初学者的练习，可以帮助我快速入门，本项目是针对[FuDanNLP的NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。
 
 ## 实验任务
 
@@ -10,7 +10,7 @@
 - **数据集**：Classify the sentiment of sentences from the Rotten Tomatoes dataset
 - 参考资料《神经网络与深度学习》 第2/3章
 - **已完成**：是
-- **详情**：[exp1 README](./exp1/README.md)
+- **详情**：[exp1 README](./exp1/README.MD)
 
 ### 任务二：基于深度学习的文本分类
 
